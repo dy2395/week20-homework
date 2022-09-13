@@ -3,10 +3,10 @@
 This is a portfolio template. 
 To view it: 
 
-1. Run the following code in folder terminal:
-`npx create-react-app my-app`
-`cd my-app`
-`npm start`
+1. Run the following code in folder terminal:<br />
+`npx create-react-app my-app`<br />
+`cd my-app`<br />
+`npm start`<br />
 2. Delete the `/src` folder in [my-app]
 
 3. Copy the `/src` folder from the folder and paste it into [my-app]
