@@ -3,7 +3,7 @@
 This is a portfolio template. 
 To view it: 
 
-1. Run the following code in folder terminal:
+1. Run the following code in folder terminal:<br />
 `npx create-react-app my-app`<br />
 `cd my-app`<br />
 `npm start`<br />
